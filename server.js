@@ -14,9 +14,9 @@ app.use(express.json());
 app.use(express.static('public'))
 
 // Router
-app.use('/api', apiRoutes)
-app.use('/', htmlRoutes)
-app.use('/delete', deleteRoutes)
+app.use('//routes/apiRoutes', apiRoutes)
+app.use('//routes', htmlRoutes)
+app.use('//routes', deleteRoutes)
 
 // Listener
 app.listen(PORT, () => {
