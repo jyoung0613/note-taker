@@ -10,5 +10,8 @@ router.get('/notes', (req, res) => {
 
 // Get route for root
 router.get('*', (req, res) => {
-    res.sendFile(path.join)
-})
+    res.sendFile(path.join(__dirname, '../public/index.html'));
+});
+
+// Export
+module.exports = router;
