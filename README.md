@@ -18,7 +18,7 @@
 
   ## Usage
   This is a note taking application.  Its so you can take any necessary notes with a title and description along with the ability to save and delete notes.
-  ![alt text](./public/assets/images/note-taker.png)
+  ![alt text](./public/assets/images/Note-Taker.png)
   ![alt text](./public/assets/images/)
   ![alt text](./public/assets/images/)
   ![alt text](./public/assets/images/)
