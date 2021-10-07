@@ -3,7 +3,7 @@
   [![MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  font and back end application using express to assist user with generating notes
+  Font and back end application using express to assist user with generating notes
 
   ## Table of Contents
   - [Installation](#Installation)
@@ -30,11 +30,6 @@
   ## Tests
   * Clone repo code from GitHub 
   * Make sure you have Node.js downloaded on your machine 
-  * Run npm i from command line at the root folder of the readme-generator 
-  * Then type node index.js to initiate the program to ask the necessary questions in the terminal
-  * Run npm install (npm i) from command line at the root folder of the cloned note-takr repo to install all dependencies
-  * type npm start in command line to see the code displayed to the web via your local host address (http://localhost:PORT) combined with the port you choose to use.
-  * All functionality can also be tested by going to my live site https://sheltered-journey-68361.herokuapp.com/
   * Run npm install (npm i) from command line at the root folder of the cloned note-takr repo to install all dependencies
   * type npm start in command line to see the code displayed to the web via your local host address (http://localhost:PORT) combined with the port you choose to use.
   * All functionality can also be tested by going to my live site https://sheltered-journey-68361.herokuapp.com/
